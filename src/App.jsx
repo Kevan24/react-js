@@ -1,5 +1,11 @@
 import React from 'react'
 import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import About from './components/About';
+import Technologies from './components/Technologies';
+import Experience from './components/Experience';
+import Project from './components/Project';
+import Contact from './components/Contact';
 
 const App = () => {
   return (
@@ -10,6 +16,12 @@ const App = () => {
       </div>
       <div className="container mx-auto px-8">
       <Navbar />
+      <Hero />
+      <About />
+      <Technologies />
+      <Experience />
+      <Project />
+      <Contact />
     </div>
     </div>
     

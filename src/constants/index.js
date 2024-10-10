@@ -3,13 +3,13 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a student, I study at a school called SMK MEDIKACOM Bandung city, at this school I major in RPL. I learned a lot of coding in this RPL and I am already a little good at creating websites. I can't believe it's been two years since I've been here and I've learned a lot about the web. When creating a website, there are many things that must be used, for example HTML, CSS, JS, PYTHON, MySQL, and others. I'm also a little good at making websites about selling whatever it is, because in my journey so far I have easily mastered coding. I hope that in the future I can gain a lot of knowledge about coding.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `At this school I also got a lot of friends who understand what coding is. I'm happy to have friends who understand coding so when I'm learning I can easily understand several things because of the help from my friends and I've learned coding so far, I don't know. I will be able to fully understand it or not, but the most important thing is that I can do it, that alone is more than enough. When I first entered the RPL class, I was confused about coding, I didn't understand it, but day by day I was able to understand it and understood it, even though sometimes I still felt confused about the coding I made because it failed or something was missing, but it was there. My teacher and friends have all resolved it, but I also don't want to continue to depend on my friends or teachers. I want to try on my own so that later I can master coding. Soon I will enter the world of work so I have to study harder and be more focused in the future.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
+    year: "2021 - Present",
     role: "Senior Full Stack Developer",
     company: "Google Inc.",
     description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
@@ -71,6 +71,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  phoneNo: "+62 882 2340 9899",
+  email: "kevan24@gmail.com",
 };
